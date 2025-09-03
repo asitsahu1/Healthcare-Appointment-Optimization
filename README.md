@@ -45,11 +45,6 @@ Design an optimized appointment scheduling system for a healthcare clinic that *
 
 ---
 
-## 🙌 Acknowledgments
-Special thanks to **Shalini Mishra** for guiding me in my **Business Analyst journey** and helping me grow my **data analysis skills**.  
-
----
-
 ## 📌 Author
 👤 **Asit Kumar Sahu**  
 - LinkedIn: [linkedin.com/in/asit-sahu](https://www.linkedin.com/in/asit-sahu)  
